@@ -4,7 +4,7 @@ const router=express.Router();
 const fs=require('fs');
 const path = require('path');
 const filepath=path.join(__dirname,'../data.json');
-const takefile=require('../controller/confile');
+// const takefile=require('../controller/confile');
 
 
 
